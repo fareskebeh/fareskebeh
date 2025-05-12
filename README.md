@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, Fares here 👨‍💻
 
-<!--
-**fareskebeh/fareskebeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a full-stack dev building things that work most of the time (jk they always do employers skip this)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack 🧰
+
+- React.js / React Native / Alpine.js (sometimes)
+- Django / RESTful APIs
+
+---
+
+### Why I code ⚡
+
+because it makes sense.  
+because I can.
+
+---
+
+### Where else to find me 🔍
+
+🔗 [My Portfolio](https://fares-kebbeh.surge.sh) — under maintenance, but still standing.
