@@ -1,4 +1,3 @@
 # About Me:
-Hey, Fares here
 
-Full-stack developer, React, Django, TypeScript
+Yes I code without AI :)
